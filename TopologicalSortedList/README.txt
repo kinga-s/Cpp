@@ -4,7 +4,7 @@ Język: C++ 20
 
 Sortowanie topologiczne grafu
 Program implementujący algorytm DFS w celu posortowania topologicznego zadanego grafu.
-Z linii polecień wywołujemy: my_program path_to_graph_file 
+Z linii poleceń wywołujemy: my_program path_to_graph_file 
 gdzie path_to_graph_file plik w formacie csv
 Program zwraca porządek zwrócony przez sortowanie topologicznege.
 

@@ -18,8 +18,5 @@ która będzie nam potrzebna, by sprawdzać, czy nasz wierzchołek ma rodzica, c
 mówiąca które wierzchołki w naszym grafie na wejściu już nie mają żadnego rodzica.
 
 Złożoność czasowa: O(V+E)
-Utworzenie vertexAdjacencyList zajmuje i rVertexAdjacencyList O(V+E). Algorytm DFS zajmuje też O(V+E), ponieważ każdy wierzchołek 
-odwiedzany jest tylko raz.
 
 Złożoność pamięciowa: O(V+E)
-Utworzenie vertexAdjacencyList i rVertexAdjacencyList zajmuje najwięcej pamięci: O(V+E).

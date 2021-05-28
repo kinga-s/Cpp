@@ -27,3 +27,6 @@ Najwięcej czasu zajmuje utworzenie macierzy sąsiedztwa. Algorytm Dijkstry też
 
 Złożoność pamięciowa: O(V^2)
 Najwięcej pamięci zajmuje stworzenie macierzy sąsiedztwa.
+
+Plik z grafem testowym:
+1000.csv
